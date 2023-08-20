@@ -13,3 +13,14 @@ A brief description or purpose.
 
 
 Please provide the content of the script
+
+
+##
+## Script 1
+A brief description or purpose.
+
+```bash
+# The content of the script goes here
+
+
+Please provide the content of the script
