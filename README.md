@@ -9,15 +9,8 @@ This repository contains bash scripts of different structures. Below is the list
 
 Project names are listed here.
 
-Bash-1
-'''
+'''Bash-1
+
 # The content of the script goes here
 
 Please provide the content of the script
-
----
-```bash
-
-
----
-##
