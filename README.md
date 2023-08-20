@@ -9,10 +9,7 @@ This repository contains bash scripts of different structures. Below is the list
 
 Project names are listed here.
 
-```bash
+```
 # The content of the script goes here
-
-
-```bash
 # The content of the script goes here
 
