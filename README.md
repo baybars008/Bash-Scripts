@@ -11,9 +11,10 @@ A brief description or purpose.
 ```bash
 # The content of the script goes here
 
-
 Please provide the content of the script
+
 ---
+```bash
 ##
 ## Script 2
 A brief description or purpose.
