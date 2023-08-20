@@ -5,9 +5,9 @@ You will be able to access bash scripts of different structures that I have writ
 
 This repository contains bash scripts of different structures. Below is the list of scripts:
 ##
-## Script 1
+## All Bash Script List
 
-A brief description or purpose.
+Project names are listed here.
 
 ```bash
 # The content of the script goes here
