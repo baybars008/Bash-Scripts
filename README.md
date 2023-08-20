@@ -15,7 +15,7 @@ A brief description or purpose.
 Please provide the content of the script
 ---
 ##
-## Script 1
+## Script 2
 A brief description or purpose.
 
 ```bash
