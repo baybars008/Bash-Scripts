@@ -13,7 +13,3 @@ A brief description or purpose.
 
 
 Please provide the content of the script
-'''
-
-##
-## Script 1
