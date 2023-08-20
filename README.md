@@ -1,4 +1,3 @@
-![Bash Script Logo](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg" alt="Bash Logo" width="200" height="100" style="max-width:100%;">
 
 # Bash-Scripts
