@@ -6,6 +6,7 @@ You will be able to access bash scripts of different structures that I have writ
 This repository contains bash scripts of different structures. Below is the list of scripts:
 ##
 ## Script 1
+
 A brief description or purpose.
 
 ```bash
@@ -15,12 +16,3 @@ Please provide the content of the script
 
 ---
 ```bash
-##
-## Script 2
-A brief description or purpose.
-
-```bash
-# The content of the script goes here
-
-
-Please provide the content of the script
