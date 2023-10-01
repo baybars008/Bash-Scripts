@@ -25,8 +25,8 @@ To run the script, follow these steps:
 
 2) Make the script executable. You can do this in the terminal with the following command:
 
-    --- chmod +x count_file_types.sh
-    --- ./count_file_types.sh
+    --->>> chmod +x count_file_types.sh
+    --->>> ./count_file_types.sh
 
 The script will prompt you for input information (directory path, output folder, and output file name). After you provide this information, the script will execute and save the results to the specified output file. The runtime will also be displayed on the screen.
 
